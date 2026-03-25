@@ -1,3 +1,3 @@
 ELA Stake page
 
-[page1] (asdf.html)
+[page1](asdf.html)
